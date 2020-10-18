@@ -1,6 +1,0 @@
-git commands:
-git config --global user.name "Sudhaperumalsamy"
-git config --global user.email "sudha.perumalsamy@yahoo.com" //user configuration
-git remote add origin https://github.com/Sudhaperumalsamy/github.git
-git remote -v
-git add .
